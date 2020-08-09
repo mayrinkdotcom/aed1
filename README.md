@@ -11,3 +11,11 @@ Atividades realizadas para a disciplina de AED I.
  - Ambiente de desenvolvimento: Visual Studio Code.
  - Linguagens: *HyperText Markup Language* (HTML5) e *Cascading Style Sheets* (CSS).
  - Responsividade para telas de tamanhos reduzidos: Sim.
+ 
+***
+
+Desenvolvido por João Pedro Mayrink 
+
+AED I - Manhã
+
+Engenharia de Software - PUC Minas
